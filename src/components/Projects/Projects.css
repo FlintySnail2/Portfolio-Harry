@@ -21,7 +21,6 @@
    
     width: auto;
     display: flex;
-    max-height: 50%;
     flex-direction: row;
     flex-wrap: wrap;
     margin: 1rem;
