@@ -22,7 +22,7 @@ function ProjectCard(props) {
                     <svg className="projectCard__icon">
                         <use xlinkHref={`${icons}#icon-github`}/>
                     </svg>
-                    GitHub
+                    View Source Code
                 </a>
             </div>
         </div>
