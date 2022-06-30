@@ -49,6 +49,7 @@
   
   .projectCard__links {
     padding:0 0 2em 0;
+    display: flex;
   }
   
   .projectCard__btn {
