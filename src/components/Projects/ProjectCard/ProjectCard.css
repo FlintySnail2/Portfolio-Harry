@@ -46,15 +46,16 @@
     padding: 2rem 1.5rem ;
   }
   
-  .projectCard-links {
+  /* .projectCard__links {
+    width: auto;
     margin-top: 1rem;
     display: flex;
     justify-content: center;
-  }
+  } */
   
   .projectCard__btn {
     background-color: #e2e2e2;
-    width: 150px;
+    width: auto;
     border-radius: 0.2rem;
     text-decoration: none;
     display: flex;

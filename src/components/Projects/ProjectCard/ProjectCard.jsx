@@ -17,7 +17,7 @@ function ProjectCard(props) {
                 <p>{props.description}</p>
             </div>
 
-            <div className="projectCSard__links">
+            <div className="projectCard__links">
                 <a href={props.github} className="projectCard__btn">
                     <svg className="projectCard__icon">
                         <use xlinkHref={`${icons}#icon-github`}/>
