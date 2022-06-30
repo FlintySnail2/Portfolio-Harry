@@ -1,10 +1,10 @@
 import React from 'react';
 import App from './app'
-
 import './index.css'
+import ReactDOM from 'react-dom';
 
 // ==== REACT 17 OR OLDER ==========
-import ReactDOM from 'react-dom';
-ReactDOM.render(<App/>, document.querySelector("#root"))
+
+ReactDOM.render(<App/>, document.getElementById("root"));
 
 
