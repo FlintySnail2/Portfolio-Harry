@@ -21,6 +21,7 @@
     font-weight: 300;
     color: #e2e2e2;
     padding: 1rem;
+    height: auto;
   }
   
   .projectCard__image {
@@ -46,12 +47,9 @@
     padding: 2rem 1.5rem ;
   }
   
-  /* .projectCard__links {
-    width: auto;
-    margin-top: 1rem;
-    display: flex;
-    justify-content: center;
-  } */
+  .projectCard__links {
+    padding-bottom: 2em;
+  }
   
   .projectCard__btn {
     background-color: #e2e2e2;
